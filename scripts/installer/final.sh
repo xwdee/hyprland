@@ -11,6 +11,7 @@ print_bold_blue "\nCongratulations! Your Simple Hyprland setup is complete!"
 
 print_bold_blue "\nRepository Information:"
 echo "   - GitHub Repository: https://github.com/gaurav210233/simple-hyprland"
+echo "   - Fork Repo: https://github.com/xwdee/hyprland"
 echo "   - If you found this repo helpful, please consider giving it a star on GitHub!"
 
 print_bold_blue "\nContribute:"
